@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className="grid grid-cols-1 sm:grid-cols-12 px-4 sm:px-0">
             <div className="col-span-7 place-self-center text-center sm:text-left">
                 <h1 className="text-white mb-4 text-3xl sm:text-5xl lg:text-6xl font-extrabold leading-snug sm:leading-normal lg:leading-snug">
-                    <span className="text-transparent bg-clip-text bg-gradient-to-r from from-[#002347] via-[#004560] to-[#00586e]">
+                    <span className="text-transparent bg-clip-text bg-gradient-to-r from from-[#002347] via-[#687771] to-[#f1f5f3]">
                         Hello, I... {""}
                     </span>
                     <TypeAnimation
@@ -39,10 +39,10 @@ const HeroSection = () => {
                 I consider myself as an autodidact and multipotentialite. An outlier, beyond the vinculum! Why those things? I love teaching myself (autodidact) about the different interests (multipotentialite) that I have.
                 </p>
                 <div className="flex flex-col sm:flex-row sm:space-x-4 space-y-3 sm:space-y-0">
-                    <button className="px-6 py-3 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#002347] via-[#004560] to-[#00586e] hover:bg-slate-200 text-[#f1f5f3]">
+                    <button className="px-6 py-3 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#002347] via-[#00586e] to-[#002347] hover:bg-slate-200 text-[#f1f5f3]">
                         Work With Me
                     </button>
-                    <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#002347] via-[#004560] to-[#00586e] hover:bg-[#001b36] text-[#f1f5f3] mt-3">
+                    <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#002347] via-[#00586e] to-[#002347]  hover:bg-[#001b36] text-[#f1f5f3] mt-3">
                         <span className="block bg-[#181818] hover:bg-[#002347] rounded-full px-5 py-2">
                             Download CV
                         </span>
