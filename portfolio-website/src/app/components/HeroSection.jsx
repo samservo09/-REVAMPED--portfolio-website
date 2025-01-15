@@ -50,9 +50,9 @@ const HeroSection = () => {
                 </div>
             </div>
             <div className="col-span-5 place-self-center mt-4 lg:mt-0">
-                <div className="rounded-full bg-[#002347] w-[280px] h-[280px] sm:w-[370px] sm:h-[370px] lg:w-[400px] lg:h-[400px] relative">
+                <div className="rounded-full bg- w-[280px] h-[280px] sm:w-[370px] sm:h-[370px] lg:w-[400px] lg:h-[400px] relative">
                     <Image
-                        src="/images/herosec-img-2.png"
+                        src="/images/herosec-img-3.png"
                         alt="hero image"
                         className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
                         width={300}
