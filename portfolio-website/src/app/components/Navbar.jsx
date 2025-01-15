@@ -29,7 +29,7 @@ const Navbar = () => {
           <Image
     src="/images/logo-pic-3.png" // Replace with your logo's path
     alt="Beyond the Vinculum Logo"
-    width={100} // Adjust width
+    width={120} // Adjust width
     height={50} // Adjust height
     className="h-auto w-auto" // Optional: To make it responsive
   />
