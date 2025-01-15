@@ -43,7 +43,7 @@ const HeroSection = () => {
                         Work With Me
                     </button>
                     <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-[#002347]  hover:bg-[#687771] text-[#687771] mt-3">
-                    <span className="block bg-[#f1f5f3] hover:bg-[#687771] text-black hover:text-[#f1f5f3] rounded-full px-5 py-2">
+                    <span className="block bg-[#f1f5f3] hover:bg-[#687771] text-[#002347] hover:text-[#f1f5f3] rounded-full px-5 py-2">
                         Download CV
                     </span>
                     </button>
