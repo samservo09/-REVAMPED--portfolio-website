@@ -11,7 +11,7 @@ const HeroSection = () => {
             <div className="col-span-7 place-self-center text-center sm:text-left">
                 <h1 className="text-white mb-4 text-3xl sm:text-5xl lg:text-6xl font-extrabold leading-snug sm:leading-normal lg:leading-snug">
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from from-[#002347] via-[#004560] to-[#00586e]">
-                        Hello, I...{""}
+                        Hello, I... {""}
                     </span>
                     <TypeAnimation
                         sequence={[
@@ -37,7 +37,6 @@ const HeroSection = () => {
                 </h1>
                 <p className="text-[#ADB7BE] text-sm sm:text-lg mb-4 lg:mb-6 lg:text-xl leading-relaxed">
                 I consider myself as an autodidact and multipotentialite. An outlier, beyond the vinculum! Why those things? I love teaching myself (autodidact) about the different interests (multipotentialite) that I have.
-
                 </p>
                 <div className="flex flex-col sm:flex-row sm:space-x-4 space-y-3 sm:space-y-0">
                     <button className="px-6 py-3 w-full sm:w-fit rounded-full bg-gradient-to-br from-[#002347] via-[#004560] to-[#00586e] hover:bg-slate-200 text-[#f1f5f3]">
