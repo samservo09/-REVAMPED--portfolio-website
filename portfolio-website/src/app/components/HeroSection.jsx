@@ -16,19 +16,19 @@ const HeroSection = () => {
                     <TypeAnimation
                         sequence={[
                             "I'm Samantha",
-                            1000,
+                            2000,
                             "do Data Science",
-                            1000,
+                            2000,
                             "do Artificial Intelligence",
-                            1000,
+                            2000,
                             "do Cloud Engineering",
-                            1000,
+                            2000,
                             "do Research",
-                            1000,
+                            2000,
                             "do Bioinformatics",
-                            1000,
+                            2000,
                             "go BEYOND THE VINCULUM!",
-                            1000,
+                            2000,
                         ]}
                         wrapper="span"
                         speed={50}
